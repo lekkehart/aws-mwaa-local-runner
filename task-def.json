@@ -37,7 +37,7 @@
         "memoryReservation": null,
         "volumesFrom": [],
         "stopTimeout": null,
-        "image": "682487017284.dkr.ecr.eu-north-1.amazonaws.com/ekke-mwaa-cicd:2.0.2",
+        "image": "682487017284.dkr.ecr.eu-north-1.amazonaws.com/ekke-mwaa-cicd:2.2.2",
         "startTimeout": null,
         "firelensConfiguration": null,
         "dependsOn": null,

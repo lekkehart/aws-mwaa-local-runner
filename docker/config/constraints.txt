@@ -123,7 +123,7 @@ apache-airflow-providers-singularity==2.0.1
 apache-airflow-providers-slack==4.1.0
 apache-airflow-providers-snowflake==2.2.2
 apache-airflow-providers-sqlite==2.0.1
-apache-airflow-providers-ssh==2.2.2
+apache-airflow-providers-ssh==1.1.0
 apache-airflow-providers-tableau==2.1.2
 apache-airflow-providers-telegram==2.0.1
 apache-airflow-providers-trino==2.0.2
